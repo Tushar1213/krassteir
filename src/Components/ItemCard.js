@@ -8,7 +8,7 @@ export default function ItemCard(props) {
         <div class="card-body">
           <h5 class="card-title">{props.title}</h5>
           <p class="card-text">{props.des}</p>
-          <a href="#" class="btn btn-primary">
+          <a href="/" class="btn btn-primary">
             Go somewhere
           </a>
         </div>
