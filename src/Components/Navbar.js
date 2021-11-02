@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export default class Navbar extends Component {
   render() {
     return (
-      <div>
+      <div className="container-fluid">
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">

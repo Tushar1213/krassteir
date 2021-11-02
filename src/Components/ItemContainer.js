@@ -34,7 +34,7 @@ export default class ItemContainer extends Component {
       },
     ];
     return (
-      <div className="container my-3">
+      <div className="container=fluid my-3">
         <div className="row ">
           {array.map((x) => (
             <div className="col-md-3 my-3">
